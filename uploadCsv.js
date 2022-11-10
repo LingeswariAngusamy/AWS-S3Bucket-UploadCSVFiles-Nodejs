@@ -1,4 +1,4 @@
-const s3Service = require("s3bucket/s3Service");
+const s3Service = require("s3Service");
 const csvjson = require('csvjson');
 
 async function UploadCsv() {
