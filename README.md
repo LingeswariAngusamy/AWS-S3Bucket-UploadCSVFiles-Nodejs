@@ -3,8 +3,11 @@ Example file upload in AWS S3 Bucket using nodejs
 
 
 $ npm init
+
 $ npm intsall aws-sdk
+
 $ npm install csvjson
+
 $ npm install file-saver
 
 <b>How to create s3 Bucket Key ID and Access Key</b>
